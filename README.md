@@ -1,4 +1,4 @@
-#Nomes de Autores de Obras Bibliográficas
+# Nomes de Autores de Obras Bibliográficas
 
 Quando se lista o nome de autores de livros, artigos e outras publicações é comum que se apresente o nome do autor ou dos autores da seguinte forma: sobrenome do autor em letras maiúsculas, seguido de uma vírgula e da primeira parte do nome apenas com as iniciais maiúsculas.
 
